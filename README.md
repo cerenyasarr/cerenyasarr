@@ -1,9 +1,5 @@
 <h1 align="center">Hi there 👋🏻</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=58A6FF&center=true&vCenter=true&lines=Flutter+%26+Dart+Developer;Java+%26+Python+Learner;Passionate+about+AI+%26+Mobile+Apps" alt="Typing SVG" />
-</p>
-
 ### 👩🏼‍💻 About Me
 
 I'm Ceren from Istanbul, Turkey   
