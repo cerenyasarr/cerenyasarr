@@ -8,8 +8,8 @@
 
 I'm Ceren from Istanbul, Turkey   
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ceren-yasar/) <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="20"/>
-- 📧 [Gmail](mailto:cerenysr1@gmail.com) <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" width="20"/>
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ceren-yasar/)  
+- 📧 Reach me at: [cerenysr1@gmail.com](mailto:cerenysr1@gmail.com)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ceren-yasar/">
