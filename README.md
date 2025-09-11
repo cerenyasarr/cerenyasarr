@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there 👋🏻
 
 <!--
-**cerenyasarr/cerenyasarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👩‍💻 About Me
+Hi, I'm Ceren from Istanbul, Turkey 🌸  
 
-Here are some ideas to get you started:
+- 🌐 My website -> [link buraya]  
+- 📧 How to reach me -> [email buraya]  
+- 💬 Ask me about **Flutter, Python, Java**  
+- 🎯 Currently working on: *AI-supported University Exam Platform*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🔨 Language and Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</p>
+
+---
+
+## 🔥 My Stats
+![Ceren's GitHub stats](https://github-readme-stats.vercel.app/api?username=**kullanıcıadın**&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**kullanıcıadın**&layout=compact&theme=dark)
 -->
