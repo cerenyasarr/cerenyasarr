@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋🏻</h1>
 
-### 👩‍💻 About Me
+### 👩🏼‍💻� About Me
 
 I'm Ceren from Istanbul, Turkey   
 
@@ -21,7 +21,7 @@ I'm Ceren from Istanbul, Turkey
 ---
 
 ## 🔥 My Stats
-![Ceren's GitHub stats](https://github-readme-stats.vercel.app/api?cerenyasarr&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?cerenyasarr&layout=compact&theme=dark)
+![Ceren's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerenyasarr&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerenyasarr&layout=compact&theme=dark)
