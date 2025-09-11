@@ -3,6 +3,9 @@
 # 👩‍💻 About Me
 I'm Ceren from Istanbul, Turkey   
 
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ceren-yasar/)
+- 📧 Reach me at: [cerenysr1@gmail.com](mailto:cerenysr1@gmail.com)
+
 
 ## 🔨 Language and Tools
 <p>
