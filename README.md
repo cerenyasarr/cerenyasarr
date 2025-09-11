@@ -1,14 +1,8 @@
 ## Hi there 👋🏻
 
 # 👩‍💻 About Me
-Hi, I'm Ceren from Istanbul, Turkey 🌸  
+I'm Ceren from Istanbul, Turkey   
 
-- 🌐 My website -> [link buraya]  
-- 📧 How to reach me -> [email buraya]  
-- 💬 Ask me about **Flutter, Python, Java**  
-- 🎯 Currently working on: *AI-supported University Exam Platform*  
-
----
 
 ## 🔨 Language and Tools
 <p>
