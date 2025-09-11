@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋🏻</h1>
 
-### 👩🏼‍💻� About Me
+### 👩🏼‍💻 About Me
 
 I'm Ceren from Istanbul, Turkey   
 
@@ -18,7 +18,6 @@ I'm Ceren from Istanbul, Turkey
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </p>
 
----
 
 ## 🔥 My Stats
 
