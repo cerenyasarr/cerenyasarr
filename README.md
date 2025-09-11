@@ -1,6 +1,5 @@
 ## Hi there 👋🏻
 
-<!--
 # 👩‍💻 About Me
 Hi, I'm Ceren from Istanbul, Turkey 🌸  
 
@@ -25,7 +24,7 @@ Hi, I'm Ceren from Istanbul, Turkey 🌸
 ---
 
 ## 🔥 My Stats
-![Ceren's GitHub stats](https://github-readme-stats.vercel.app/api?username=**kullanıcıadın**&show_icons=true&theme=dark)
+![Ceren's GitHub stats](https://github-readme-stats.vercel.app/api?cerenyasarr*&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**kullanıcıadın**&layout=compact&theme=dark)
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?cerenyasarr*&layout=compact&theme=dark)
+
