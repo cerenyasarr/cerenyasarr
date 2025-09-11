@@ -26,6 +26,10 @@ I'm Ceren from Istanbul, Turkey
 
 ## 🔥 My Stats
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cerenyasarr&theme=dark&hide_border=false" alt="Ceren's GitHub Streak"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cerenyasarr&show_icons=true&theme=dark" alt="Ceren's GitHub stats"/>
 </p>
 
