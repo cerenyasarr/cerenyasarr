@@ -1,6 +1,6 @@
-## Hi there 👋🏻
+# Hi there 👋🏻
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 I'm Ceren from Istanbul, Turkey   
 
