@@ -25,17 +25,14 @@ I'm Ceren from Istanbul, Turkey
 </p>
 
 ## 🔥 My Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=cerenyasarr&show_icons=true&theme=dark" alt="Ceren's GitHub stats" width="300"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerenyasarr&layout=compact&theme=dark" alt="Top Langs" width="200"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=cerenyasarr&theme=dark&hide_border=false" alt="Ceren's GitHub Streak" width="200"/>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=cerenyasarr&show_icons=true&theme=dark" alt="Ceren's GitHub stats"/>
+</p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerenyasarr&layout=compact&theme=dark" alt="Top Langs"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cerenyasarr&theme=dark&hide_border=false" alt="Ceren's GitHub Streak"/>
+</p>
