@@ -23,7 +23,7 @@ I'm Ceren from Istanbul, Turkey
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </p>
 
-## 🔥 My Stats
+## 🔥 My Stats 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=cerenyasarr&show_icons=true&theme=dark" alt="Ceren's GitHub stats"/>
 </p>
