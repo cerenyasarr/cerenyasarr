@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋🏻</h1>
 
-### 👩🏼‍💻 About Me 
+### 👩🏼‍💻 About Me  
 
 I'm Ceren from Istanbul, Turkey   
 
